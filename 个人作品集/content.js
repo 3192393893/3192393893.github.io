@@ -1,12 +1,12 @@
 // 只需修改这里，网站会自动更新。文字请保留引号和逗号。
 const portfolio = {
-  name: "袁锦成",
-  shortName: "YJC",
-  initials: "YJC",
+  name: "谭俊松",
+  shortName: "TJS",
+  initials: "TJS",
   title: "Python 数据采集与AI开发",
   summary: "用代码把开放数据变成可理解的信息。我专注网页采集、数据清洗与自动化流程。",
   status: "求职中",
-  location: "中国 · 北京",
+  location: "中国 · 湖南",
   email: "kaiyang@example.com",
   github: "https://github.com/",
   csdn: "https://www.csdn.net/",
